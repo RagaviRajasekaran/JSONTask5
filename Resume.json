@@ -1,0 +1,27 @@
+{
+    "name": "Ragavi R",
+    "degree": "BCA",
+    "school": "KHSS",
+    "dateOfBirth": "2/5/1990",
+    "email": "ragavi5901@gmail.com",
+    "phone": "9092687531",
+    "address": "hgjhjkh",
+    "graduationYear": "2011",
+    "location": "Thanjavur",
+    "experience": [
+      {
+        "position": "Frontend Developer",
+        "company": "JCTechInc",
+        "startDate": "2023-06-01",
+        "endDate": "Till"        
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "HTML/CSS",
+      "MYSQL",
+      "Photoshop",
+      "Bootstrap"
+    ]
+  }
+  
